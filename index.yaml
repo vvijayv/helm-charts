@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  customer-data-ingestion-init-poller:
+  - apiVersion: v2
+    appVersion: 0.0.1
+    created: "2020-11-20T15:47:53.125516+05:30"
+    description: A helm chart for `customer-data-ingestion-init-poller`
+    digest: 6eba7302a8ae5499a5bfa8970ce954e5fe1a7e20d80060045f159d4bd00b2a72
+    icon: https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png
+    name: customer-data-ingestion-init-poller
+    type: application
+    urls:
+    -  https://vvijayv.github.io/helm-charts/charts/customer-data-ingestion-init-poller-0.0.1.tgz
+    version: 0.0.1
+generated: "2020-11-20T15:47:53.123441+05:30"
