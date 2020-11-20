@@ -3,13 +3,25 @@ entries:
   customer-data-ingestion-init-poller:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2020-11-20T15:47:53.125516+05:30"
+    created: "2020-11-20T15:55:07.610907+05:30"
     description: A helm chart for `customer-data-ingestion-init-poller`
     digest: 6eba7302a8ae5499a5bfa8970ce954e5fe1a7e20d80060045f159d4bd00b2a72
     icon: https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png
     name: customer-data-ingestion-init-poller
     type: application
     urls:
-    -  https://vvijayv.github.io/helm-charts/charts/customer-data-ingestion-init-poller-0.0.1.tgz
+    - charts/customer-data-ingestion-init-poller-0.0.1.tgz
     version: 0.0.1
-generated: "2020-11-20T15:47:53.123441+05:30"
+  spring-boot-k8s-batch:
+  - apiVersion: v2
+    appVersion: 0.0.1
+    created: "2020-11-20T15:55:07.611762+05:30"
+    description: A helm chart for `spring-boot-k8s-batch`
+    digest: 0a8e4741fca9c58ccda285219b6437399cf95e86ed000a4f917a5aa7eda252f8
+    icon: https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png
+    name: spring-boot-k8s-batch
+    type: application
+    urls:
+    - charts/spring-boot-k8s-batch-0.0.1.tgz
+    version: 0.0.1
+generated: "2020-11-20T15:55:07.608303+05:30"
